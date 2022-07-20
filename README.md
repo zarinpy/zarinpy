@@ -10,6 +10,7 @@ I have been building APIs and tools for many startups in Iran, and now Middle ea
 
 I'm familiar with Python and it's frameworks like (`Django`, `FastAPI`, `TurboGears`), and I'm always learning new things.
 
+I have the knowledge to work with SQLDatabases like `PostgreSQL` and `Mysql`, and NOSQL like `MongoDB`.
 
 
 you can find me:
