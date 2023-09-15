@@ -1,8 +1,8 @@
-### Hey Im Matthew Alan Hallock 👋
+### Hey Im Omid Zarinmahd 👋
 
 Im a backend developer and I love to learn new things.
 
-I'm a software developer from Michigan. 
+I'm a software developer from Iran. 
 
 I have been building APIs and tools for many startups in BairsDev, with different teams and organizations. 🌎
 
@@ -12,4 +12,4 @@ I know how to work with SQL databases like `PostgreSQL` and `Mysql`, and NOSQL l
 
 
 you can find me:
-1. Email matt.hallock223@gmail.com
+1. Email zarinpy@gmail.com
